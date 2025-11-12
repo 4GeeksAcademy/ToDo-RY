@@ -24,7 +24,7 @@ const Home = () => {
 
     return (
         <div className="container">
-            <h1 className="text-center mt-5">ToDO-RY</h1>
+            <h1 className="text-center mt-5">Todos</h1>
             <div className="card shadow-lg">
                 <ul className="list-group list-group-flush">
                     <li className="list-group-item p-0">
